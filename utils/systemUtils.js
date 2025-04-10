@@ -1,5 +1,4 @@
 function getSystemLanguage() {
-    return process.env.LANGUAGE || 'en-US';  // Default to 'en-US' if not set
+    return process.env.LANGUAGE || 'en-US';
   }
-  
   module.exports = { getSystemLanguage };
