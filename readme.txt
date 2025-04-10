@@ -7,7 +7,8 @@ This project uses Playwright for automated testing, and Sharp for image manipula
 #How to Run Tests
 
 Clone the Repository:
-git clone https://github.com/your-repository-url.git
+git clone https://github.com/shrutiautomationtest/automationTests.git
+
 cd your-project-directory
 
 install dependencies-
