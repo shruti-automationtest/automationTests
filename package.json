@@ -1,0 +1,24 @@
+{
+  "name": "avatarux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0",
+    "playwright": "^1.51.1",
+    "python-shell": "^5.0.0",
+    "resemblejs": "^5.0.0",
+    "sharp": "^0.34.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.51.1"
+  }
+}
